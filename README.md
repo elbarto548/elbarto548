@@ -123,20 +123,18 @@
 
 <p align="center">
   <a href="https://github.com/elbarto548/laravel-crud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elbarto548&repo=laravel-crud&theme=tokyonight&hide_border=true"/>
+    <img src="https://gh-card.dev/repos/elbarto548/laravel-crud.svg"/>
   </a>
 </p>
-
----
 
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elbarto548&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elbarto548&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elbarto548&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elbarto548&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
