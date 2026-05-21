@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/kali.png" width="100%" />
+  <img src="./assets/kali.png" width="75%" />
 </p>
 
 <h1 align="center">Hola 👋, Soy Benjamin</h1>
