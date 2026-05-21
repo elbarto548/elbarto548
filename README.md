@@ -1,5 +1,19 @@
-<h1 align="center">Hola 👋, soy Benjamin</h1>
+<h1 align="center">Hola 👋, Soy Benjamin</h1>
 <h3 align="center">Networking & Cybersecurity Student</h3>
+
+<p align="center">
+  <a href="mailto:ticonabenjamin15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://facebook.com/TUUSUARIO](https://www.facebook.com/share/1BZAwXmEfd/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/TUUSUARIO](https://www.instagram.com/el_barto548?igsh=MW41aXZtOTU5M2p3Yw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -11,6 +25,16 @@
 - 📊 Interesado en análisis y ciencia de datos
 - 🛠 Construyendo proyectos y laboratorios prácticos
 - 📚 Formación continua mediante certificaciones y práctica técnica
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Cisco Networking
+- Linux
+- Python Automation
+- Cybersecurity Fundamentals
+- Data Analysis
 
 ---
 
@@ -59,6 +83,31 @@
 
 ---
 
+## 🧪 Labs & Projects
+
+- Networking Labs
+- Python Scripts
+- SQL Practice
+- Backend Projects
+- Linux Notes
+- Cybersecurity Labs
+
+---
+
+## 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/TUUSUARIO/TUREPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=TUREPO&theme=tokyonight"/>
+  </a>
+
+  <a href="https://github.com/TUUSUARIO/TUREPO2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=TUREPO2&theme=tokyonight"/>
+  </a>
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -76,5 +125,3 @@
 Seguir creciendo profesionalmente en el área de redes, ciberseguridad e infraestructura, desarrollando habilidades prácticas mediante laboratorios, proyectos y aprendizaje constante.
 
 > “Always learning something new.”
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
