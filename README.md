@@ -125,10 +125,6 @@
   <a href="https://github.com/elbarto548/laravel-crud">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=elbarto548&repo=laravel-crud&theme=tokyonight"/>
   </a>
-
-  <a href="https://github.com/elbarto548/clase04">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elbarto548&repo=clase04&theme=tokyonight"/>
-  </a>
 </p>
 
 ---
