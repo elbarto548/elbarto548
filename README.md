@@ -123,11 +123,11 @@
 
 <p align="center">
   <a href="https://github.com/elbarto548/laravel-crud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=TUREPO&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elbarto548&repo=TUREPO&theme=tokyonight"/>
   </a>
 
   <a href="https://github.com/elbarto548/clase04">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=TUREPO2&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elbarto548&repo=TUREPO2&theme=tokyonight"/>
   </a>
 </p>
 
