@@ -6,11 +6,11 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://facebook.com/TUUSUARIO](https://www.facebook.com/share/1BZAwXmEfd/">
+  <a href="https://www.facebook.com/share/1BZAwXmEfd/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/TUUSUARIO](https://www.instagram.com/el_barto548?igsh=MW41aXZtOTU5M2p3Yw==">
+  <a href="https://www.instagram.com/el_barto548?igsh=MW41aXZtOTU5M2p3Yw==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
