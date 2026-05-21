@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hola 👋, Soy Benjamin</h1>
-<h3 align="center">Networking & Cybersecurity Student</h3>
+<h3 align="center">Estudiante de informatica enfocado en Redes y Ciberseguridadt</h3>
 
 <p align="center">
   <a href="mailto:ticonabenjamin15@gmail.com">
