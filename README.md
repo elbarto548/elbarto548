@@ -70,6 +70,7 @@
 ---
 ## 📜 Certificaciones
 
+### 🤖 Anthropic
 <p>
   <a href="https://verify.skilljar.com/c/mzmqpe79kyt8">
     <img src="https://img.shields.io/badge/Anthropic-Claude_101-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -86,9 +87,18 @@
   <a href="https://verify.skilljar.com/c/o2xxhefiyzkr">
     <img src="https://img.shields.io/badge/Anthropic-Intro_to_MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
   </a>
+</p>
+
+### 🛡️ Cisco Networking Academy
+<p>
   <a href="https://www.credly.com/badges/e867a202-eabd-4ff8-a8b9-f979bd385ff4">
     <img src="https://img.shields.io/badge/Cisco-Intro_Ciberseguridad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   </a>
+  <!-- Aquí irán los próximos badges de Cisco -->
+</p>
+
+### 🌍 Idiomas
+<p>
   <a href="https://cert.efset.org/es/CxqzPT">
     <img src="https://img.shields.io/badge/EF_SET-English_C1_(62%2F100)-0572CE?style=for-the-badge"/>
   </a>
