@@ -71,18 +71,45 @@
 
 ## 📜 Certificaciones & Formación
 
+### 🤖 Anthropic
 <p>
-  <img src="https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Anthropic-Claude_AI-191919?style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/badge/HP_LIFE-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/EF_SET-English_C1-0572CE?style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/badge/Italian-A2-008C45?style=for-the-badge"/>
+  <a href="https://verify.skilljar.com/c/v2bvvycyhwia">
+    <img src="https://img.shields.io/badge/Anthropic-Claude_with_the_API-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  </a>
+  <a href="https://verify.skilljar.com/c/iaeatoymq9zd">
+    <img src="https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  </a>
+  <a href="https://verify.skilljar.com/c/o2xxhefiyzkr">
+    <img src="https://img.shields.io/badge/Anthropic-Intro_to_MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Anthropic-Claude_101-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-AI_Fluency_Framework_%26_Foundations-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
+
+### 🌐 Redes & Ciberseguridad
+<p>
+  <img src="https://img.shields.io/badge/Cisco-Intro_a_Ciberseguridad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HP_LIFE-Intro_Ciberseguridad-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BIG_school-Ciberseguridad_%26_Hacking_Ético-111827?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+</p>
+
+### 🧠 Inteligencia Artificial & Data
+<p>
+  <img src="https://img.shields.io/badge/HP_LIFE-IA_para_Principiantes-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BIG_school-Desarrollo_con_IA-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BIG_school-Data_Science_con_IA-111827?style=for-the-badge"/>
+</p>
+
+### 💻 Desarrollo
+<p>
+  <img src="https://img.shields.io/badge/Google-Desarrollo_Apps_Móviles-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Udemy-Excel_Básico_a_Avanzado-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+</p>
+
+### 🌍 Idiomas
+<p>
+  <img src="https://img.shields.io/badge/EF_SET-English_C1_(62%2F100)-0572CE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Italiano-Básico_A2-008C45?style=for-the-badge"/>
 </p>
 
 ---
