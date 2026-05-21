@@ -34,11 +34,11 @@
 
 ## 🌱 Actualmente aprendiendo
 
-- Cisco Networking
+- Redes 
 - Linux
-- Python Automation
-- Cybersecurity Fundamentals
-- Data Analysis
+- Automatización con Python
+- Fundamentos de ciberseguridad
+- Análisis de datos
 
 ---
 
@@ -87,18 +87,18 @@
 
 ---
 
-## 🧪 Labs & Projects
+## 🧪 Laboratorios y Proyectos
 
-- Networking Labs
-- Python Scripts
-- SQL Practice
-- Backend Projects
-- Linux Notes
-- Cybersecurity Labs
+- Laboratorios de Redes
+- Scripts de Python
+- Práctica de SQL
+- Proyectos de Backend
+- Apuntes de Linux
+- Laboratorios de Ciberseguridad
 
 ---
 
-## 📌 Featured Repositories
+## 📌 Repositorios destacados
 
 <p align="center">
   <a href="https://github.com/TUUSUARIO/TUREPO">
@@ -112,7 +112,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" />
@@ -128,4 +128,4 @@
 
 Seguir creciendo profesionalmente en el área de redes, ciberseguridad e infraestructura, desarrollando habilidades prácticas mediante laboratorios, proyectos y aprendizaje constante.
 
-> “Always learning something new.”
+> “Sempre imparando qualcosa di nuovo.”
